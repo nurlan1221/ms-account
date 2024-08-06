@@ -48,4 +48,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: nurlan12/ms-account-ci:latest
+          tags: nurlan12/ms-account-ci:v1.0.0
